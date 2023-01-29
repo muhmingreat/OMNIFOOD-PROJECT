@@ -1,3 +1,3 @@
-# My Demo
+OMNIFOOD PROJECT
 
  Some text
